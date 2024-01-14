@@ -1,0 +1,7 @@
+Bus
+Jeep
+Motorcycle
+Tricycle
+Van
+Car
+Truck
